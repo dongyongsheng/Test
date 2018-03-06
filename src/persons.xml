@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="GB2312"?>
+<persons>
+  
+  <person><name>kalision</name><sex>女</sex></person>
+  
+  <person>
+    <name>kity</name>
+    <sex>男</sex>
+  </person>
+  
+  <person>
+    <name>qizai</name>
+    <sex>女</sex>
+  </person>
+  
+</persons>

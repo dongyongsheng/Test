@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/FatherAndSon/fatherandson.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/HuiDiaoHanShu/CallBack.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/HuiDiaoHanShu/Li.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/HuiDiaoHanShu/Wang.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/HuiDiaoHanShu/testHuiDiao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/JavaJson/Address.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/JavaJson/JsonTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/JinZhiZhuanHuan/ShiLiuZhuanShi.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/ThreadGaoBingFa/AtomicOperationDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/daochuEcecl/CreateSimpleExcelToDisk.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/monkey/eat.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/readfile/ReadFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/CRC16.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/byteZString.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/riqipinjie.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/tesrDate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/testDuoBiaoFenYe.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/testzifuchuan/Stringlength/testIndexof.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/udpTest/UDPClient.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/udpTest/UDPServer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/MD5.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/xml/DomXml.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/xml/ReadXmlFile.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/xml/TestXml.java" charset="GBK" />
+  </component>
+</project>
